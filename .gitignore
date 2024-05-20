@@ -1,0 +1,4 @@
+# ignore all .DS_Store
+*.DS_Store
+My_log
+*.cache
